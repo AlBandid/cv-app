@@ -1,0 +1,13 @@
+.footer {
+    display: block;
+    position: sticky;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    background: #3d3d3d;
+    height: auto;
+    padding: 5px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: calc(infinity * 1px);
+}
